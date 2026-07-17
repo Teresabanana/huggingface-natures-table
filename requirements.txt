@@ -1,5 +1,0 @@
-gradio
-huggingface_hub
-sentence-transformers
-torch
-numpy
